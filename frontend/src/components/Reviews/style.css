@@ -1,0 +1,31 @@
+.box {
+    display: flex;
+}
+
+.container {
+    margin-left: 680px;
+}
+.allreviews{
+    display: flex;
+    align-items: center;
+}
+#p_name{
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 100%;
+}
+.comments{
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    margin-left: 5px;
+}
+.star-rating{
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 100%;
+    margin-left: 20px;
+}

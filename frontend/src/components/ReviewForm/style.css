@@ -1,0 +1,28 @@
+.page{
+    width: 400px;
+    height: 350px;
+    top: 58px;
+    left: 49px;
+    background-color: #dddddd;
+    margin-left: 700px;
+    padding: 55px;
+}
+
+
+.formfields{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.active {
+  color: #fff700;
+}
+
+.inactive {
+  color: #000000;
+}
+
+#submit-btn{
+    margin-top: 15px;
+}
