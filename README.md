@@ -1,5 +1,5 @@
 # Review a Product
-A real-time product review app where ratings update instantly across all open tabs, built using FastAPI, React, WebSocket,s and PostgreSQL
+A real-time product review app where ratings update instantly across all open tabs, built using FastAPI, React, WebSockets, and PostgreSQL
 
 ## Features
 
