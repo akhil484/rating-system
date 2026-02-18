@@ -4,8 +4,8 @@ A real-time product review app where ratings update instantly across all open ta
 ## Features
 
 1. Products List
-  > - All Products List
-  > - Links to Individual Product Page
+    > - All Products List
+    > - Links to Individual Product Page
 2. Product Page
     > - Product Name
     > - All Reviews
